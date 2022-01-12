@@ -1,16 +1,16 @@
 
 ACCOUNTS=[
 "GBWDOP7ONDKNJ222C3AS7KV74HGHIGZEM2AV3662HKJFSCUYJ7TQW2QB"
-"GB4ZK5POZJJZJBFERNCXRQBEHTF3USTSSTRQVGGV72S5ZAVI2TG2KEBY"
 ]
+
 
 VERSION="2.0.0"
 
 [DOCUMENTATION]
 ORG_NAME="TheMotorcycleRescueDog"
 ORG_DBA="Organization no profit"
-ORG_URL="https://www.alyii.github.com/lovedog"
-ORG_LOGO="https://www.alyii.github.com/lovedog/lovedoglogo3.png"
+ORG_URL="https://github.com/AlYii/LoveDog"
+ORG_LOGO="https://github.com/AlYii/LoveDog/LoveDogLogo3.png"
 ORG_DESCRIPTION="Description of issuer"
 ORG_PHYSICAL_ADDRESS="yyy"
 ORG_PHYSICAL_ADDRESS_ATTESTATION="https://www.domain.com/address_attestation.jpg"
