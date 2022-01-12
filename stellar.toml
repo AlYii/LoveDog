@@ -1,0 +1,29 @@
+ACCOUNTS=[
+"GBWDOP7ONDKNJ222C3AS7KV74HGHIGZEM2AV3662HKJFSCUYJ7TQW2QB"
+]VERSION="2.0.0"
+[DOCUMENTATION]
+ORG_NAME="TheMotorcycleRescueDog"
+ORG_DBA="Organization no profit"
+ORG_URL="https://alyii.github.io/LoveDog"
+ORG_LOGO="https://alyii.github.com/LoveDog/LoveDogLogo3.png"
+ORG_DESCRIPTION="Description of issuer"
+ORG_PHYSICAL_ADDRESS="yyy"
+ORG_PHYSICAL_ADDRESS_ATTESTATION="https://www.domain.com/address_attestation.jpg"
+ORG_PHONE_NUMBER="1 (xx)-456-080"
+ORG_PHONE_NUMBER_ATTESTATION="https://www.domain.com/phone_attestation.jpg"
+ORG_KEYBASE="aging21"
+ORG_TWITTER="orgtweet"
+ORG_GITHUB="orgcode"
+ORG_OFFICIAL_EMAIL="support@domain.com"
+[[PRINCIPALS]]
+name="Jane Jedidiah Johnson"
+email="jane@domain.com"
+keybase="cryptne"
+twitter="cryptane"
+github="cryptane"
+id_photo_hash="be688838ca8686e5c90689bf2ab585cef1137c999b48c70b92f67a5c34dc15697b5d11c982ed6d71be1e1e7f7b4e0733884aa97c3f7a339a8ed03577cf74be09"
+verification_photo_hash="016ba8c4cfde65af99cb5fa8b8a37e2eb73f481b3ae34991666df2e04feb6c038666ebd1ec2b6f623967756033c702dde5f423f7d47ab6ed1827ff53783731f7"
+[[CURRENCIES]]
+code="LoveDog"
+issuer="GBWDOP7ONDKNJ222C3AS7KV74HGHIGZEM2AV3662HKJFSCUYJ7TQW2QB"
+display_decimals=7
